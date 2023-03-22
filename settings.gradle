@@ -1,0 +1,8 @@
+rootProject.name = 'MovieRecommendationAppJava5'
+include 'AuthMicroService'
+include 'UserMicroService'
+include 'ConfigService'
+include 'ConfigService-Git'
+include 'ApiGatewayService'
+include 'MailService'
+
